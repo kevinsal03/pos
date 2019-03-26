@@ -7,8 +7,12 @@ This Rails app relies on [Devise](https://github.com/plataformatec/devise/) for 
 
 ## Method 1
 #### Rails Console
+*Recommended Method*
+
 * Information Coming Soon
 
 ## Method 2
 #### Modifying the Devise User Model
+*This Method is NOT recommended*
+
 * Information Coming Soon
